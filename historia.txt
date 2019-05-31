@@ -1,0 +1,6 @@
+Esto es un archivo para probar cosas con git
+
+Esteban tiene 28 años y nacio en colombia, 
+viviendo en el sur de colombia.
+
+contaremos que va sucediendo.
