@@ -1,4 +1,4 @@
-# hyperblog :tw-1f499:
+# hyperblog 💙
 Creación de un blog basado en el curso de git y github de platzi.
 > EL curso de Git y Github me sirve para llevar el control de mis proyectos de desarrollo, y ahora que lo conozco mejor podré mostrarles de mejor manera todo el potencial que tiene esta herramienta para la industria de TI.
 > - Python.
