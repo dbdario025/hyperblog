@@ -3,4 +3,6 @@ Esto es un archivo para probar cosas con git
 Esteban tiene 28 años y nacio en colombia, 
 vamos a hablar de su carrera profesional
 
+Master 1
+
 Mañana nos enfocaremos en su vida laboral
