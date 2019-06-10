@@ -14,5 +14,6 @@ Creación de un blog basado en el curso de git y github de platzi.
 * Seguir buenas prácticas
 * Comandos de consola comunes
 * Branches, fetch, push, origin, master....
+* Creado por Esteban :)
 
 y la referencia a la mejor manera de hacer un **readme.md** en: https://pandao.github.io/editor.md/en.html
