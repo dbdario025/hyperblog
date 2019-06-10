@@ -15,5 +15,6 @@ Creación de un blog basado en el curso de git y github de platzi.
 * Comandos de consola comunes
 * Branches, fetch, push, origin, master....
 * Creado por Esteban :)
+* Incluye ejemplos en windows, linux y Mac
 
 y la referencia a la mejor manera de hacer un **readme.md** en: https://pandao.github.io/editor.md/en.html
